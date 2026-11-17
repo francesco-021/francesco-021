@@ -1,9 +1,8 @@
 ## Hi there 👋
 
-<!--
-**francesco-021/francesco-021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc student in **Financial Technology and Computation at USI**, with a background in economics, finance, and financial-services consulting.
 
-Here are some ideas to get you started:
+I'm interested in the intersection of **finance, technology, and data**, and I'm currently developing my skills in programming, data analysis, and computational finance.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
